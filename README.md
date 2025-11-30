@@ -34,7 +34,8 @@ load, adjust and resave.  Rinse and repeat as needed for your own rig.
 I changed some mods for personal taste.  I changed the Another Pine Forest mod he used for "A Forest" 
 mod...which I found visually nicer and it feels like a "forest" I am familiar with in RL.  Added a 
 couple more guns into the mix, but I don't know if any of it works as yet.  Still developing it and 
-working out the kinks...
+working out the kinks...the biggest hurdle is to get Wabbajack to properly cooperate and figure out 
+which software I need to strip to get it to "cooperate" at the end with loose files.
 
 Until I do, this is the only stub to find on this page.  Apologies to anyone who stumbles on this
 expecting a mod pack.
